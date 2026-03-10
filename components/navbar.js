@@ -15,7 +15,7 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div class="nav-right">
-        <a href="tel:+919876543210" class="nav-call">📞 +91 98765 43210</a>
+        <a href="tel:+919731036845 class="nav-call">📞 +91 9731036845</a>
         <button class="hamburger" id="hamburger" aria-label="Menu">
           <span></span><span></span><span></span>
         </button>
@@ -31,7 +31,7 @@
       <a href="#gallery"  onclick="closeMob()">Gallery</a>
       <a href="#reviews"  onclick="closeMob()">Reviews</a>
       <a href="#contact"  onclick="closeMob()">Contact</a>
-      <a href="tel:+919876543210" style="color:var(--gold)">📞 Call Now</a>
+      <a href="tel:+919731036845" style="color:var(--gold)">📞 Call Now</a>
     </div>
   `;
 

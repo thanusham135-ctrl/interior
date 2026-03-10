@@ -5,19 +5,19 @@
 
   const data = {
     '2': [
-      { tier:'Essential', price:'5.5L', note:'All-inclusive · Zero hidden costs', star:false,
+      { tier:'Essential', price:'5.5L Onwards', note:'All-inclusive · Zero hidden costs', star:false,
         features:['Modular Kitchen (L / Straight)','2 Wardrobes with mirrors','False ceiling — Living room','TV unit with storage','Foyer design & console','Premium paint (Asian Paints)','10-year warranty'] },
       { tier:'Premium',   price:'8.5L', note:'Most popular choice',               star:true,  badge:'✦ Most Popular',
         features:['Everything in Essential +','Island kitchen, premium finish','Walk-in wardrobe design','Decor wall panels & textures','Smart lighting & dimmers','3D visualization preview','Dedicated project manager','Bar counter + crockery unit'] },
-      { tier:'Luxe',      price:'12L',  note:'Ultimate luxury experience',         star:false,
+      { tier:'Luxe',      price:'12L onwards',  note:'Ultimate luxury experience',         star:false,
         features:['Everything in Premium +','Italian laminate finishes','Custom upholstered headboard','Home automation basics','Curtains & soft furnishings','Premium flooring upgrade','Unlimited design revisions','White-glove handover'] },
     ],
     '3': [
-      { tier:'Essential', price:'8.5L', note:'All-inclusive · Zero hidden costs', star:false,
+      { tier:'Essential', price:'8.5L Onwards', note:'All-inclusive · Zero hidden costs', star:false,
         features:['Modular Kitchen (L / Parallel)','3 Wardrobes with mirrors','False ceiling — Living & Master','TV unit & entertainment wall','Foyer + Passage design','Bathroom fittings (2 baths)','10-year warranty'] },
-      { tier:'Premium',   price:'13L',  note:'Best value for 3BHK',               star:true,  badge:'✦ Best Value',
+      { tier:'Premium',   price:'13L Onwards',  note:'Best value for 3BHK',               star:true,  badge:'✦ Best Value',
         features:['Everything in Essential +','Island kitchen, premium finish','Master bedroom wardrobe wall','Kids room themed design','Smart lighting + auto blinds','3D visualization — all rooms','Dedicated project manager','Weekly progress updates'] },
-      { tier:'Luxe',      price:'18L',  note:'The complete luxury package',        star:false,
+      { tier:'Luxe',      price:'18L Onwards',  note:'The complete luxury package',        star:false,
         features:['Everything in Premium +','Imported materials & finishes','Full home automation system','Custom furniture pieces','Italian marble / vinyl flooring','Curtains, rugs & art curation','Balcony & utility design','Lifestyle consultation'] },
     ]
   };
