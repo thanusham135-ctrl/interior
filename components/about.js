@@ -20,7 +20,7 @@
         <div class="about-content reveal">
           <div class="sec-badge">Our Studio</div>
           <h2 class="sec-h2">Where <em>luxury</em> meets thoughtful design</h2>
-          <p class="sec-p">For over 12 years, ELARA has transformed ordinary apartments into extraordinary sanctuaries. We believe your home should be a perfect expression of who you are.</p>
+          <p class="sec-p">For over 4 years, URBAN NEST has transformed ordinary apartments into extraordinary sanctuaries. We believe your home should be a perfect expression of who you are.</p>
           <p class="sec-p">Our all-inclusive packages eliminate every stress of coordinating multiple vendors — from modular kitchens to custom wardrobes, we handle everything with total transparency.</p>
           <div class="about-features">
             <div class="af"><div class="af-icon">🏆</div><div class="af-title">Award-Winning Designs</div><div class="af-desc">Recognized by Architectural Digest India 2023</div></div>
