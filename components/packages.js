@@ -7,9 +7,9 @@
     '2': [
       { tier:'Essential', price:'5.5L Onwards', note:'All-inclusive · Zero hidden costs', star:false,
         features:['Modular Kitchen (L / Straight)','2 Wardrobes with mirrors','False ceiling — Living room','TV unit with storage','Foyer design & console','Premium paint (Asian Paints)','10-year warranty'] },
-      { tier:'Premium',   price:'8.5L', note:'Most popular choice',               star:true,  badge:'✦ Most Popular',
+      { tier:'Premium',   price:'8.5L Onwards', note:'Most popular choice',               star:true,  badge:'✦ Most Popular',
         features:['Everything in Essential +','Island kitchen, premium finish','Walk-in wardrobe design','Decor wall panels & textures','Smart lighting & dimmers','3D visualization preview','Dedicated project manager','Bar counter + crockery unit'] },
-      { tier:'Luxe',      price:'12L onwards',  note:'Ultimate luxury experience',         star:false,
+      { tier:'Luxe',      price:'12L Onwards',  note:'Ultimate luxury experience',         star:false,
         features:['Everything in Premium +','Italian laminate finishes','Custom upholstered headboard','Home automation basics','Curtains & soft furnishings','Premium flooring upgrade','Unlimited design revisions','White-glove handover'] },
     ],
     '3': [
