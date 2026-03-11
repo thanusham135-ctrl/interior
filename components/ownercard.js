@@ -7,7 +7,7 @@
     <div id="owner-card">
       <div class="oc-header">
         <div class="oc-avatar-wrap">
-          <div class="oc-avatar">R</div>
+          <div class="oc-avatar">S</div>
           <div class="oc-online"></div>
         </div>
         <div>
