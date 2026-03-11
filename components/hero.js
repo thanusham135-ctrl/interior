@@ -18,8 +18,7 @@
       </div>
       <div class="hero-middle">
         <p class="hero-desc">
-          We are a <strong>full-service interior design studio</strong> specialising in
-          residential 2BHK &amp; 3BHK packages — all-inclusive, zero surprises, delivered in 45 days.
+          We are a <strong>full-service interior design studio</strong> specialising in commercial and residential space interior designing — all-inclusive, zero surprises, delivered in 45 days.
         </p>
         <div class="hero-ctas">
           <a href="#packages" class="btn-walnut"><span>Explore Packages</span><span>→</span></a>
@@ -27,7 +26,7 @@
         </div>
         <div class="hero-stats-row">
           <div class="hero-stat">
-            <div class="hs-num">500<sup>+</sup></div>
+            <div class="hs-num">20<sup>+</sup></div>
             <div class="hs-label">Projects Done</div>
           </div>
           <div class="hero-stat">
